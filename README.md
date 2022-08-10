@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomás Fuentes Milla from Chile, I have 20 years old and my nickname is @bluu-sql
 
-- 👀 I’m intereste in saving my progress as a Computer Engineering student for the next 4 years.
+- 👀 I’m intereste in saving my progress as a Informatics Engineering student for the next 4 years.
 
 - 🌱 I’m currently learning Python, JavaScript and SQL.
 
